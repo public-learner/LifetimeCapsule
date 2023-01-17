@@ -1,4 +1,4 @@
-# LifetimeCapsule
+### Newgen-Capsule
 
 *  make sure your mongo service is running in the background
   *  if you are using homebrew: `brew services start mongodb`
